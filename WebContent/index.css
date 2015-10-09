@@ -2,9 +2,39 @@
 body{
 	margin:0;
 }
+
+.content{
+	width:80%;
+	margin:0 auto;
+}
+
+.header{
+	
+}
+.side{
+	background-color:#aaa;
+	height:400px;
+	width:120px;
+	float:left;
+}
+.sideRight{
+	background-color:#aaa;
+	height:400px;
+	width:120px;
+	float:right;
+}
+.main{
+	background-color:#eee;
+	height:400px;
+	margin:0 120px;
+}
+.footer{
+	
+}
+
 .box{
 	background-color:#eee;
-	width:400px;
+	/* width:400px; */
 	height:400px;
 	margin:auto;
 }
