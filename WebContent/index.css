@@ -4,7 +4,7 @@ body{
 }
 .box{
 	background-color:#eee;
-	/* width:400px; */
+	width:400px;
 	height:400px;
 	margin:auto;
 }
